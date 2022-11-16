@@ -1,0 +1,24 @@
+Spēles nosaukums: Vēl nav..
+Spēles tips: 2d platformeris
+Spēles Ideja: Lietotājs kustina spēles tēlu, kurš izpilda noteiktus līmeņus vai misijas. 
+Speles programmēšanas valoda:  Java
+Izmantotā programma: IntellIJ
+
+Sagaidāmais mērķis: Uztaisīt spēli, kurā tēls var parvietoties balstoties uz  lietotāja ievadi, Līmeņu dizains, kas ir detalizēti izveidoti, ar strādājošu Misiju sadaļu. Izveidot pretiniekus ar kuriem spēlētājs varēs cīnities. 
+
+Kā mēs plānojam to izdarīt? :
+
+Pagaidām plāns ir izveidot pamatus, pēc tam izveidot detalizētus līmēņus ar misiju sadaļu un combat- system.  labāk izprotot programmēšānas valodu Java.
+
+Spēles tēls parvietosies ar WASD un SPACE movement. Spēlētājam būs Inventory ar Lietām kuras varēs izmantot. 
+
+W-Move Forward
+A-Move right
+S-Move Down
+D-Move Left
+Space- Jump 
+
+Darbu veido: 
+Kristaps Morics
+Markuss Einārs Treide
+PT19
