@@ -1,7 +1,0 @@
-Tehniskais apraksts. 
-
--Tika ievietotas kustības metodes izmantojot ievadi WASD 4
-
--Šis kustības tika ievietotas ar KeyHandler klasi. 
- 
--Tika izveidots TimeHandler ar kura palīdzību spēle var iet uz 60 kadriem sekundē
